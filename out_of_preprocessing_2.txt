@@ -1,0 +1,5 @@
+graph -> stack 0.411119
+root size = 201
+root dij 0.001
+bag dij 0
+stack -> tree 0.884638
